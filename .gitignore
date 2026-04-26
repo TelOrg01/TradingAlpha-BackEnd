@@ -6,6 +6,7 @@
 # dotenv files
 .env
 app.settings.json
+src/TradingAlpha.Api/appsettings.json
 
 # User-specific files
 *.rsuser
