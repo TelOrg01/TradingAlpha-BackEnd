@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/TradingAlpha.Api/TradingAlpha.Api.csproj" />
+    <Project Path="src/TradingAlpha.Application/TradingAlpha.Application.csproj" />
+    <Project Path="src/TradingAlpha.Contracts/TradingAlpha.Contracts.csproj" />
+    <Project Path="src/TradingAlpha.Domain/TradingAlpha.Domain.csproj" />
+    <Project Path="src/TradingAlpha.Infrastructure/TradingAlpha.Infrastructure.csproj" />
+  </Folder>
+</Solution>
